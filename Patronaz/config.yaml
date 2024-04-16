@@ -1,0 +1,69 @@
+baseURL: "https://patronaz.com/"
+theme: "patronaz"
+languageCode: "en-us"
+
+title: "Patronaz"
+
+# googleAnalytics: ""
+
+summaryLength: 20
+
+params:
+  title: "Patronaz"
+  description: "Patronaz is company in Hong Kong and says that they develop and support companies to build AI based warehouse operations handling and logistics operations handling to improve product output performance, better inventory and stock control and less human errors. Patronaz also offers consultancy about software development for companies who wish to make / build their own custom software."
+  images: 
+    - "images/hero-image.png"
+
+  logo: "arrow-up.png"
+
+  favicons:
+    themeColor: "#FFFFFF"
+    backgroundColor: "#FFFFFF"
+    faviconColor: "#000000"
+
+  social:
+    dribbble: "#"
+    instagram: "#"
+    facebook: "#"
+    twitter: "#"
+
+  location:
+    - "Patronaz Limited
+Unit 2A, 17/F, Glenealy Tower, No.1 Glenealy
+Central, Hong Kong S.A.R"
+
+  contact:
+    - "info@patronaz.com"
+
+  copyright: "© 2022 Patronaz All Rights Reserved"
+
+menus:
+  main:
+    - name: "Home"
+      url: "/#hero"
+      weight: 1
+
+    - name: "Services"
+      url: "/#services"
+      weight: 2
+
+    - name: "Contact"
+      url: "/#footer"
+      weight: 3
+
+  footer:
+    - name: "Home"
+      url: "/#hero"
+      weight: 1
+
+    - name: "Services"
+      url: "/#services"
+      weight: 2
+
+    - name: "Contact"
+      url: "/#footer"
+      weight: 3
+
+taxonomies:
+  series: "series"
+  tags: "tags"

@@ -1,0 +1,39 @@
+enabled: true
+id: "portfolio"
+
+content:
+  - image: "images/portfolio-ecommerce.png"
+    pretitle: "Portfolio Service"
+    title: "We offer software development expertise"
+    text: "Software development is at the core of what we do. Our team of expert developers can help you create custom software solutions that meet your unique needs. From AI-powered warehouse solutions to e-commerce platforms, Patronaz has the expertise to bring your vision to life."
+
+    # buttons: 
+    #   - label: "See live"
+    #     url: "#"
+
+    #   - label: "Read more"
+    #     url: "#"
+
+  - image: "images/hero-image.png"
+    pretitle: "Warehouse Operations"
+    title: "We develop an AI-powered warehouse handling solutions for our clients."
+    text: "Warehouse operations are the backbone of any business. Our AI-powered solutions can help you streamline your processes, reduce errors, and improve efficiency. From inventory management to order fulfillment, Patronaz has the tools you need to optimize your warehouse operations."
+
+    # buttons: 
+    #   - label: "See live"
+    #     url: "#"
+
+    #   - label: "Read more"
+    #     url: "#"
+
+  - image: "images/portfolio-ecommerce.png"
+    pretitle: "Logistics Operations"
+    title: "We offer logistics operations handling solutions for our clients."
+    text: "Logistics operations are complex and require careful coordination to ensure smooth and efficient processes. Patronaz's AI-powered solutions can help you optimize your logistics operations, reduce costs, and improve customer satisfaction. From route optimization to supply chain management, Patronaz has the tools you need to succeed."
+
+    # buttons: 
+    #   - label: "See live"
+    #     url: "#"
+
+    #   - label: "Read more"
+    #     url: "#"

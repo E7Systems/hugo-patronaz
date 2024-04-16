@@ -1,0 +1,27 @@
+enabled: true
+id: "services"
+
+content:
+  title: "Services"
+  text: "We offer a range of services to help you optimize your operations and drive business success. From AI-powered warehouse solutions to custom software development, our team has the expertise and experience to meet your unique needs. Explore our services below to learn more about how Patronaz can help your business thrive."
+  cards:
+    - image: "images/services-bot.png"
+      title: "Warehouse Operations"
+      text: "Warehouse operations are the backbone of any business. Our AI-powered solutions can help you streamline your processes, reduce errors, and improve efficiency. From inventory management to order fulfillment, Patronaz has the tools you need to optimize your warehouse operations."
+      # button:
+      #   label: "Learn more"
+      #   url: "#"
+
+    - image: "images/services-web-development.png"
+      title: "Web development"
+      text: "In today's digital world, a strong online presence is essential for business success. Our team of expert developers can help you create a custom website that showcases your brand and drives customer engagement. From e-commerce platforms to content management systems, Patronaz has the expertise to bring your vision to life."
+      # button:
+      #   label: "Learn more"
+      #   url: "#"
+
+    - image: "images/services-bot.png"
+      title: "Logistics Operations"
+      text: "Logistics operations are complex and require careful coordination to ensure smooth and efficient processes. Patronaz's AI-powered solutions can help you optimize your logistics operations, reduce costs, and improve customer satisfaction. From route optimization to supply chain management, Patronaz has the tools you need to succeed."
+      # button:
+      #   label: "Learn more"
+      #   url: "#"

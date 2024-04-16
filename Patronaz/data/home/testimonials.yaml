@@ -1,0 +1,23 @@
+enabled: true
+id: "testimonials"
+
+content:
+  title: "Testimonials"
+
+  featured:
+    image: "images/testimonials-awards.png"
+    text: "Patronaz offers quick solutions for comapanies we work with. They offer excellent AI based tools and are competent software consultants."
+    client: "Alexii Carey - E7 Systems Knowledge Director"
+
+  list:
+    - text: "Increased Efficiency and Reduced Errors with Patronaz
+            Since implementing Patronaz's AI-powered warehouse solution, our company has seen a significant boost in efficiency and a dramatic decrease in human error. The system seamlessly integrates with our existing infrastructure and automates many of our handling and logistics tasks, freeing up our staff to focus on higher-value activities. Patronaz's ongoing support has been invaluable, and their team is always available to answer our questions and address any concerns. We highly recommend Patronaz to any company looking to optimize their warehouse operations."
+      client: "Li Wang CEO, Dragon Manufacturing Hong Kong"
+
+    - text: "Patronaz: The Perfect Partner for Our Custom Software Needs
+            We were initially hesitant to tackle custom software development in-house. However, Patronaz's expert consultation services made the process smooth and efficient. Their team worked closely with us to understand our specific requirements and develop a software solution that perfectly meets our needs. The new software has streamlined our operations and provided us with valuable insights into our business. We're incredibly grateful to Patronaz for their expertise and guidance."
+      client: "Mei Chen - Hong Kong"
+
+    - text: "Improved Inventory Control with Patronaz's AI
+            Patronaz's AI-powered solution has revolutionized our inventory management. We now have real-time visibility into our stock levels, allowing us to optimize ordering and minimize the risk of stockouts. The system also flags potential discrepancies and helps us identify areas for improvement. Patronaz's technology has resulted in significant cost savings and improved customer satisfaction. We're confident that our partnership with Patronaz will continue to drive success for our business."
+      client: "Lam Chun Head of Supply Chain"

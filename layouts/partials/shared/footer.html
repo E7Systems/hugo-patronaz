@@ -1,4 +1,4 @@
-<footer class="shared footer bg-blue-light py-5">
+<footer id="footer" class="shared footer bg-blue-light py-5">
   <div class="container">
     <div class="row pb-5">
       <div class="col-12 col-xl-4 text-center text-xl-start pb-4">
@@ -37,7 +37,8 @@
       <div class="col-12 col-xl-3 text-center text-xl-start pb-4">
         <h5 class="fs-6 fw-semibold text-primary">Contact us</h5>
         {{ range .Site.Params.contact }}
-          <p class="small text-black-61 mb-1">{{ . }}</p>
+          <p class="small text-black-61 mb-1">{{ partial  "utilities/image-half" "images/email.png" }}</p>
+         
         {{ end }}
       </div>
     </div>

@@ -1,0 +1,15 @@
+enabled: true
+id: "hero"
+
+content:
+  title: "How to **level up** your business"
+  text: "Improve product output performance and tap into superior inventory and stock control using our AI based warehouse and logistics AI based tools."
+
+  buttonPrimary:
+    label: "Services"
+    url: "#services"
+
+  buttonSecondary:
+    label: "Contact"
+    url: "#footer"
+
